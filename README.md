@@ -1,5 +1,5 @@
 # CSCI_212
-##Java with Prof. Kenneth Lord
+### Java with Prof. Kenneth Lord
 
 These projects are from Object-Oriented Programming with Java. There are total of 4 projects.
 
